@@ -1,5 +1,5 @@
 ## Web-Design
 ### Responsive Real-World Websites with HTML and CSS desktop version focused on web design rules -typography, colors, images & illustrations, icons, shadows, white space, visual hierarchy, and etc.
 
-#### Check the link below
-##### https://saisapura.github.io/Web-Design/
+
+##### Have a look [here!](https://saisapura.github.io/Web-Design/)
